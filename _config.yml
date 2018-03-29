@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            الحياة النباتية 
+description:      كل ما تريد معرفته كي تعيش حياة نباتية مليئة بالصحة والرحمة. 
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,13 +9,13 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  name:           مينا حبيب
+  avatar:         profilepic.jpg
+  bio:            "أنا ناشط في حقوق الحيوانات، أب، مهندس برمجيات، و بالتأكيد نباتي."
+  email:          mina@minahabib.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
+  twitter:        NullGuru   
+  facebook:       mina.adel
   github:         
   stackexchange:  
   linkedin:       

@@ -18,7 +18,7 @@
 		position: fixed;
 		max-width: 175px;
 		top: 25px;
-		left: 25px;
+		right: 25px;
 	}
 
 	&.dl-menuopen {
@@ -127,7 +127,7 @@
 			color: #fff;
 			speak: none;
 			-webkit-font-smoothing: antialiased;
-			content: "\f105";
+			content: "\f104";
 		}
 
 		&.dl-back:after {
@@ -139,7 +139,7 @@
 		}
 
 		> a:after {
-			right: 10px;
+			left: 10px;
 			color: rgba(0,0,0,0.15);
 		}
 	}

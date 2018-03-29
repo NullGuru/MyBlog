@@ -7,6 +7,7 @@ body {
 	padding: 0;
 	width: 100%;
 	background-color: $body-color;
+  direction: rtl;
 }
 
 /* 
@@ -139,7 +140,7 @@ body {
 .entry-image {
 	position: relative;
 	top: -50%; 
-	left: -50%; 
+	right: -50%; 
 	width: 200%; 
 	height: 200%;
 	min-height: $feature-image-height;
@@ -187,7 +188,7 @@ body {
 .image-credit {
 	position: absolute;
 	bottom: 0;
-	right: 0;
+	left: 0;
 	margin: 0 auto;
 	max-width: 440px;
 	padding: 10px 15px;
@@ -228,7 +229,7 @@ body {
 	.vcard {
 
 		&:before {
-			content: " by ";
+			content: " بواسطة ";
 		}
 	}
 
@@ -255,7 +256,7 @@ body {
 	}
 
 	.entry-reading-time {
-		float: right;
+		float: left;
 	}
 }
 
