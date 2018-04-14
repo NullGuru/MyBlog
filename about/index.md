@@ -1,32 +1,19 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: لماذا أنا نباتي؟
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2016-02-01
+modified: 2018-03-29
 ---
+قد تستغرق قراءة هذا المقال أقل من دقيقة، فى تلك الدقيقة سيكون قد مات تقريباً ١٠٧ ألف حيواناً، فقط ليتم تقدمتهم كلحوم. آكاد أن أرى علامات الدهشة و التشكيك على وجهك، لا ألوم عليك فقد شكيت فى صحة هذة الأرقام عندما قرائتها للمرة الأولى. كل عام يموت ٥٦ مليار حيوان من أجل الطعام و يمكنك البحث على شبكة الانترنت للتأكد من صحة هذة الأرقام.
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+كان لفاجعة هذه الأرقام الفضل الأكبر لتحولي إلى النباتية.. نعم، أنا نباتي ١٠٠٪ فإني لا أكل اللحوم بجميع أنوعها ولا منتجات الالبان، للإختصار أنا لا أكل أي منتج حيواني. زد على ذلك أني لا ألبس الجلد ولا اذهب إلى السيرك أو حديقة الحيوانات. قد تتعجب لماذا أحرم نفسي من كل هذه المتع؟ سوف أجيب على هذا السؤال في الثلاثة أسباب التالية:
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+1. **أسباب إنسانية و أخلاقية**: فأنا لا أعتقد أن للإنسان الحق في تعذيب الحيوانات و ذبحها كي تستخدم في المأكل و الملبس، فقط لكي يشبع رغباته. 
+2. **من أجل البيئة**: فحيوانات المزارع التي يتم تربيتها من أجل الطعام هي أكبر منتج لغاز الميثان الذي يقدر ضرره على الاحتباس الحراري بعشرين مرة ضعف تأثير غاز ثاني أكسيد الكربون. 
+3. **من أجل صحتي**: فهناك العديد من الدراسات التي اثبتت أضرار اللحوم على جسم الإنسان، آخرها البحث التي نشرته منظمة الصحة العالمية (WHO) و قد صنفت اللحوم المصنعة على أنها مادة مسرطنة من الدرجة الأولة، و هو نفس تصنيف السجائر.
 
-## HPSTR Features:
-
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
-
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+لقد قمت بذكر  نقطة واحدة في كلاً من الأسباب، لكني سوف أقوم بكتابة مقال مخصص لكلاً من تلك المواضيع لمناقشتها بالتفصيل.
