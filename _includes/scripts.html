@@ -15,5 +15,13 @@
   ga('send', 'pageview');
 </script>
 {% endif %}
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117515306-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+        gtag('config', 'UA-117515306-1');
+</script>
 
 {% if page.comments != false %}{% include disqus_comments.html %}{% endif %}
